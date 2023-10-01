@@ -1,0 +1,32 @@
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  margin: 5px 0;
+  cursor: pointer;
+}
+
+.task {
+  flex-grow: 1;
+}
+
+.complete {
+  text-decoration: line-through;
+}
+
+.delete-button {
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.highlighted {
+  background-color: yellow;
+}
+
+.bold {
+  font-weight: bold;
+}
