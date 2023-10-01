@@ -14,8 +14,8 @@ Tools I used for this program:
 - CSS
 - JavaScript
 
-  JavaScript is a widely used programming language. It frequently goes hand in hand with HTML and CSS for front-end development and is commonly used specifically to make features interactive.
-
+  JavaScript is a widely used programming language. It frequently goes hand in hand with HTML and CSS for front-end development and is commonly used specifically to make features interactive. It is also useful when working with a server and databases.
+ 
 # Useful Websites
 - w3schools (https://www.w3schools.com/js/)
 - codecademy (https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/types)
