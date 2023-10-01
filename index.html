@@ -22,6 +22,10 @@
       const highlightButton = document.getElementById("highlightButton");
       const boldButton = document.getElementById("boldButton");
 
+      alert(
+        "Hello! Welcome to your to-do list. You are able to write tasks and add them to your list.If you'd like to mark them as complete, simply select them. After they've been completed you may want to revisit the task or add it to tomorrow's list. Click the highlight or bold button to mark any selected task."
+      );
+
       function addTask() {
         const taskText = taskInput.value.trim();
         if (taskText === "") return;
